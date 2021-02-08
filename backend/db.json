@@ -1,0 +1,28 @@
+{
+  "clients": [
+    {
+      "id": 1,
+      "name": "Caneta BIC Preta",
+      "registro": 5.89,
+      "especialidade": "n/d"
+    },
+    {
+      "id": 2,
+      "name": "Notebook Mac Pro",
+      "registro": 12000.89,
+      "especialidade": "n/d"
+    },
+    {
+      "id": 3,
+      "name": "Sansung S20+ Ultra",
+      "registro": "7520.89",
+      "especialidade": "n/d"
+    },
+    {
+      "id": 4,
+      "name": "Lapis Preto Básico",
+      "registro": "1.50",
+      "especialidade": "n/d"
+    }
+  ]
+}
